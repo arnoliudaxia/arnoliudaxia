@@ -4,7 +4,7 @@
 </p>
 
 
-<h2 align="center">个人分享分享</h2>
+<h2 align="center">个人分享</h2>
 
 <!-- ## 个人分享 -->
 - 🌐网站导航：https://website.liuyf7.top/
