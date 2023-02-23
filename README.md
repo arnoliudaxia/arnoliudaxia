@@ -15,17 +15,10 @@
 - 🍕分享日常-知乎：https://www.zhihu.com/people/liu-yi-fei-82-83
 
 <h2 align="center">成分</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/21056014/220843068-0e8155ec-ea2b-43f1-8087-625aede268bc.png" width=65% />
+</p>
 
-- 为什么法国不能研究无线电
-- 再玩一局
-- 格拉摩根伯爵
-- DIY
-- 电子创客
-- AMD YES
-- 诺伊尔
-- 宇宙主宰任天堂
-- 我们除了上班对啥都感兴趣
-- Hacker
 
 <!--   ![](Hutao.gif) -->
 <p align="center">
