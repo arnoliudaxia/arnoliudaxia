@@ -23,6 +23,9 @@
 - 电子创客
 - AMD YES
 - 诺伊尔
+- 宇宙主宰任天堂
+- 我们除了上班对啥都感兴趣
+- Hacker
 
 <!--   ![](Hutao.gif) -->
 <p align="center">
