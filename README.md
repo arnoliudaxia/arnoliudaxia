@@ -16,7 +16,8 @@
 
 <h2 align="center">成分</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/21056014/220843815-37d1dfe4-8017-4fe1-9897-897dfd2a79bd.png" width=65% />
+  <img src="PersonalWordCloud.png" width=65% />
+ 
 </p>
 
 
