@@ -16,7 +16,7 @@
 
 <h2 align="center">成分</h2>
 <p align="center">
-  <img src="PersonalWordCloud.png" width=65% />
+  <img src="PersonalWordCloudV2.png" width=65% />
  
 </p>
 
