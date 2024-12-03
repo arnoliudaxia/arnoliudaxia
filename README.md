@@ -1,5 +1,9 @@
+
+[![GMAILLINK](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liu1456447215@gmail.com)
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoliudaxia&show_icons=true"/><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnoliudaxia&theme=nord_bright"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoliudaxia&layout=compact"/>
 </p>
 
