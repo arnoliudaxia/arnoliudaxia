@@ -9,14 +9,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoliudaxia&layout=compact"/>
 </p>
 
+<h2 align="center">💻 Tech Stack</h2>
+
+### 🌐 Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,threejs,bootstrap,electron)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,py,django,flask,fastapi,java,spring,dotnet,cs)](https://skillicons.dev)
+
+### 🗄️ Databases & Storage
+[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres,mongodb)](https://skillicons.dev)
+
+### 🐳 DevOps & Tools
+[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx,grafana,postman)](https://skillicons.dev)
+
+### ☁️ Cloud & Hosting
+[![Cloud Skills](https://skillicons.dev/icons?i=azure,cloudflare,vercel,netlify)](https://skillicons.dev)
+
+
 
 <h2 align="center">个人分享</h2>
 
 <!-- ## 个人分享 -->
-- 🌐网站导航：https://website.liuyf7.top/
-- 📁资源分享：https://fileshare.liuyf7.top/
+- 🌐网站导航：https://mynavar.netlify.app/
+- 📁资源分享：https://fileshare.arnoliu.top/
 - ~~📰个人博客-博客园：https://www.cnblogs.com/arno-liu/~~ 
-- 📰自建博客-[Arno的可爱博客](https://halo.liuyf7.top/)
+- ~~📰自建博客-[Arno的可爱博客](https://halo.liuyf7.top/)~~
 - 🔮个人博客-Notion专栏：『CS人类的自我修养』--[链接1](https://cs.super.site)~[链接2](https://arnoliu.notion.site/CS-89f02f72f1264efe94dfc4b7d396d8ee) 
 - 🍕分享日常-知乎：https://www.zhihu.com/people/liu-yi-fei-82-83
 
