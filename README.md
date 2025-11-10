@@ -1,3 +1,16 @@
+
+
+
+[![GMAILLINK](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liu1456447215@gmail.com)
+
+![replicate-prediction-tmrbbzsg3drme0cm5ff8s8f5q8](https://github.com/user-attachments/assets/5664da23-c8af-4119-a3ad-67356c4abda6)
+「我们的目标是星辰大海」
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnoliudaxia&theme=nord_bright"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoliudaxia&layout=compact"/>
+</p>
+
 <h2 align="center">💻 Tech Stack</h2>
 
 ### 🌐 Frontend
@@ -41,19 +54,6 @@
 
 
 *技能图标由 [skill-icons](https://github.com/tandpfun/skill-icons) 提供*
-
-
-[![GMAILLINK](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liu1456447215@gmail.com)
-
-![replicate-prediction-tmrbbzsg3drme0cm5ff8s8f5q8](https://github.com/user-attachments/assets/5664da23-c8af-4119-a3ad-67356c4abda6)
-「我们的目标是星辰大海」
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnoliudaxia&theme=nord_bright"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoliudaxia&layout=compact"/>
-</p>
-
-=====================
 
 
 <h2 align="center">个人分享</h2>
