@@ -1,3 +1,47 @@
+<h2 align="center">💻 Tech Stack</h2>
+
+### 🌐 Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,threejs,bootstrap,electron,jquery,codepen,vuetify)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,py,django,flask,fastapi,java,dotnet,cs,c,cpp,lua)](https://skillicons.dev)
+
+### 🗄️ Databases & Storage
+[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis)](https://skillicons.dev)
+
+### 🐳 DevOps & Tools
+[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx,grafana,postman,gitlab,bitbucket,npm,pnpm,selenium,regex)](https://skillicons.dev)
+
+### ☁️ Cloud & Hosting
+[![Cloud Skills](https://skillicons.dev/icons?i=azure,cloudflare)](https://skillicons.dev)
+
+### 🖥️ IDEs & Code Editors
+[![IDEs & Editors](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,rider,visualstudio,sublime,neovim,replit)](https://skillicons.dev)
+
+### 🎨 Design & Multimedia
+[![Design Skills](https://skillicons.dev/icons?i=figma,ps,au,blender,sketchup)](https://skillicons.dev)
+
+### 🤖 Machine Learning & Data Science
+[![ML Skills](https://skillicons.dev/icons?i=anaconda,pytorch,sklearn,opencv,matlab)](https://skillicons.dev)
+
+### 🖥️ Operating Systems
+[![OS Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,debian,kali)](https://skillicons.dev)
+
+### 🔧 Hardware & IoT
+[![Hardware Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+### 🎮 Game Development
+[![Game Dev Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
+### 📱 Mobile Development
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+### 📝 Productivity & Documentation
+[![Productivity Skills](https://skillicons.dev/icons?i=notion,gmail,discord,latex,md,wordpress,gtk)](https://skillicons.dev)
+
+
+*技能图标由 [skill-icons](https://github.com/tandpfun/skill-icons) 提供*
+
 
 [![GMAILLINK](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liu1456447215@gmail.com)
 
@@ -9,23 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoliudaxia&layout=compact"/>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
-### 🌐 Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,threejs,bootstrap,electron)](https://skillicons.dev)
-
-### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,py,django,flask,fastapi,java,spring,dotnet,cs)](https://skillicons.dev)
-
-### 🗄️ Databases & Storage
-[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres,mongodb)](https://skillicons.dev)
-
-### 🐳 DevOps & Tools
-[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx,grafana,postman)](https://skillicons.dev)
-
-### ☁️ Cloud & Hosting
-[![Cloud Skills](https://skillicons.dev/icons?i=azure,cloudflare,vercel,netlify)](https://skillicons.dev)
-
+=====================
 
 
 <h2 align="center">个人分享</h2>
